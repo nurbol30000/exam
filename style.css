@@ -1,0 +1,108 @@
+.body {
+    width: 1440px;
+height: 4363px;
+background-color: white;
+}
+.top1 {
+    width: 1275px;
+height: 827px;
+flex-shrink: 0;
+
+margin-top: 40px;
+margin-left: 144px;
+border: 1px solid rgb(112, 15, 104);
+
+
+}
+.top3 {
+    width: 1152px;
+height: 42px;
+flex-shrink: 0;
+}
+
+.top2 {
+    width: 100%px;
+    height: 100%px;
+    margin-top: 138px;
+    gap: 60px;
+    border: 1px solid royalblue;
+    display: flex;
+
+
+    
+    
+
+}
+.top4 {
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 24px;
+}
+.top5 {
+    display: flex;
+align-items: flex-start;
+gap: 112px;
+}
+
+.top6 {
+    color: #4A4A4A;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 25.6px */
+}
+.top7 {
+    color: #FFF;
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+background-color: green;
+margin-top: 100px;
+}
+.ul1 {
+    width: 1152px;
+height: 42px;
+flex-shrink: 0;
+display: flex;
+gap: 50px;
+list-style: none;
+
+border:1px solid #4A4A4A;
+}
+.img {
+    width: 557px;
+height: 650px;
+flex-shrink: 0;
+
+}
+.plant {
+    padding-right: 300px;
+}
+.log {
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.but {
+    background-color: green;
+    width: 70px;
+    height: 50px;
+}
+.number {
+    display: flex;
+    gap: 80px;
+    position: relative;
+    left: 100px;
+    height: 50px;
+
+}
+.Delivery {
+    display: flex;
+    gap: 85px;
+    position: relative;
+    left: 120px;
+    height: 50px;
+}
